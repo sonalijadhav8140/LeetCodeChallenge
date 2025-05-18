@@ -5,7 +5,8 @@ This repository contains my daily *LeetCode solutions* as part of my *#100DaysOf
 ## 🔥 Challenge Goal  
 - Solve *one LeetCode problem* daily for 100 days.  
 - Improve *problem-solving skills* and *Java coding ability*.  
-- Maintain *consistency* by uploading solutions and tracking progress.  
+- Maintain *consistency* by uploading solutions and tracking progress.
+- Improving Consistency
 
 ## 🛠 Technologies Used  
 - *Java*  
